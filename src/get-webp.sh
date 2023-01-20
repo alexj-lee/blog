@@ -1,0 +1,1 @@
+img2webp -lossy -d 80 *output*.png -o outtest.webp -min_size 
